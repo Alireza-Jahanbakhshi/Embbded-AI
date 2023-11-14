@@ -1,0 +1,7 @@
+15:45:08 **** Incremental Build of configuration Debug for project PA-STM32-MNIST ****
+make -j4 all 
+arm-none-eabi-size   PA-STM32-MNIST.elf 
+   text	   data	    bss	    dec	    hex	filename
+1376392	   2724	 128340	1507456	 170080	PA-STM32-MNIST.elf
+Finished building: default.size.stdout
+ 

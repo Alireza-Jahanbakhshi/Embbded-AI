@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 4 resources" deleteContents="false" description="Delete 4 resources" element1="/PA-STM32-MNIST/X-CUBE-AI/App/network_data_old.c" element2="/PA-STM32-MNIST/X-CUBE-AI/App/network_data_old.h" element3="/PA-STM32-MNIST/X-CUBE-AI/App/network_old.c" element4="/PA-STM32-MNIST/X-CUBE-AI/App/network_old.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="4" stamp="1699960870566"/>
+</session>
